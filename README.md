@@ -1,3 +1,5 @@
 # git-practice-eli
-Bayramov Eli
+Azmiu
+Xirdalan
+AAAF 120 
 MMA
