@@ -1,3 +1,5 @@
 # git-practice-eli
-Bayramov Eli
-MMA
+ELi Bayramov
+Xirdalan
+Azmiu
+845a2
